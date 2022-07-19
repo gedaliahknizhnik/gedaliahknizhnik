@@ -28,13 +28,9 @@ I'm a passionate roboticist and mechanical engineer who takes a systems approach
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.gedaliahknizhnik.com">
-    <img src="https://img.shields.io/badge/Homepage-lightgrey" alt="Personal Site"/>
+    <img src="https://img.shields.io/badge/Homepage-lightgrey?style=for-the-badge" alt="Personal Site"/>
   </a>
 </div>
-
-📫 How to reach me:
-* gedaliah.knizhnik[at]gmail.com
-* knizhnik[at]seas.upenn.edu
 
 ## My Coding Skills:
 
@@ -45,3 +41,11 @@ I'm a passionate roboticist and mechanical engineer who takes a systems approach
 </div>
 
 I do most of my current development work in Python, but most of my work is *hidden* in private organizational repositories. If you want to see samples, shoot me a message or an email and I'm happy to share it.
+
+
+## 📫 Contact Me:
+
+You can reach me by message on my LinkedIn or Twitter accounts, or you can email me at:
+
+* gedaliah.knizhnik[at]gmail.com
+* knizhnik[at]seas.upenn.edu
