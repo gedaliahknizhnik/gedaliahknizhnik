@@ -40,7 +40,11 @@ I'm a passionate roboticist and mechanical engineer who takes a systems approach
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
-I do most of my current development work in Python, but most of my work is *hidden* in private organizational repositories. If you want to see samples, shoot me a message or an email and I'm happy to share it.
+My main project is the [**Modboats**](www.modlabupenn.org/modboats) at the GRASP Laboratory at the University of Pennsylvania, which are underactuated robots that are capable of modular self-reconfiguration. They run on a stack of:
+* Embedded code: ESP32 processor programmed in *Arduino*
+* Offboard planning code: *Python* software stack handling motion capture and planning for the robot. (Replaces a *Matlab* software stack)
+
+Most of my work is *hidden* in private organizational repositories. If you want to see samples, shoot me a message or an email and I'm happy to share it.
 
 
 ## 📫 Contact Me:
