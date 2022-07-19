@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gedaliahknizhnik/gedaliahknizhnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me:
+
+I'm a passionate roboticist and mechanical engineer who takes a systems approach to robotics, making sure that hardware, electronics, and software work seamlessly together to create a platform that can perform in real world conditions. In my doctoral research at the GRASP Laboratory (University of Pennsylvania) I study underactuated, modular, reconfigurable, aquatic systems for ocean research and monitoring, and I hope to bring my extensive skills tackling challenging problems to industry.
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/gedaliahknizhnik/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,4 +27,21 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/GedaliahKnizhn1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.gedaliahknizhnik.com">
+    <img src="https://img.shields.io/badge/Homepage-lightgrey" alt="Personal Site"/>
+  </a>
 </div>
+
+📫 How to reach me:
+* gedaliah.knizhnik[at]gmail.com
+* knizhnik[at]seas.upenn.edu
+
+## My Coding Skills:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+</div>
+
+I do most of my current development work in Python, but most of my work is *hidden* in private organizational repositories. If you want to see samples, shoot me a message or an email and I'm happy to share it.
