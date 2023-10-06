@@ -40,7 +40,7 @@ I'm a passionate roboticist and software engineer who takes a systems approach t
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
-My main project at the University of Pennsylvania is the [**Modboats**](www.modlabupenn.org/modboats) at the GRASP Laboratory at the University of Pennsylvania, which are underactuated robots that are capable of modular self-reconfiguration. They run on a stack of:
+My main project at the GRASP Laboratory at the University of Pennsylvania was the [**Modboat**](www.modlabupenn.org/modboats), which is an underactuated robot that is capable of modular self-reconfiguration and energy-efficient ocean monitoring. Modboats run on a stack of:
 * Embedded code: ESP32 processor programmed in *Arduino*
 * Offboard planning code: *Python* software stack handling motion capture and planning for the robot. (Replaces a *Matlab* software stack)
 
