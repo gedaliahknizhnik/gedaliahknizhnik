@@ -49,7 +49,7 @@ My main project at the GRASP Laboratory at the University of Pennsylvania was th
 * Offboard planning code: `Python` <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/> software stack handling motion capture and planning for the robot. 
 
 Most of my work is *hidden* in private organizational repositories. If you want to see samples, shoot me a message or an email and I'm happy to share what I can.
-* I do extensive C++ development of real-time, often multi-threaded systems with an emphasis on efficiency and speed. 
+* I do C++ development of real-time, often multi-threaded systems with an emphasis on efficiency and speed. 
 * I work extensively in ROS2, Linux, and Docker.
 
 
